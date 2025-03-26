@@ -68,7 +68,7 @@ export default {
     },
     url: {
       type: String,
-      default: 'https://mehirat-hametz.vercel.app/'
+      default: 'https://mehira-bet-el.vercel.app/'
     },
     size: {
       type: String,
